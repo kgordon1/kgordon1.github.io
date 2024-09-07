@@ -1,0 +1,46 @@
+---
+title: "Kate Gordon"
+image: "KateGordon-125.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/kategordon1"
+  - label: GitHub
+    url: "https://github.com/kgordon1"
+  - label: ORCiD
+    url: "https://orcid.org/my-orcid?orcid=0000-0002-5500-5920"
+  - label: Email
+    url: "mailto:kgordo20@jh.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Kate Gordon studies the epidemiology and biostatistics of aging. Her research focuses on cognitive aging and 
+the impact of living alone with, or at high risk of, cognitive impairment. She frequently collaborates with 
+researchers who study risk factors for cognitive decline, living well with dementia, and caregiver outcomes.
+
+## Education
+
+**Johns Hopkins University** | Baltimore, MD
+
+Ph.D. in Public Health | Expected Graduation: May 2027
+T32 
+
+**The University of South Carolina** | Columbia, SC
+
+M.S.W. in Social Work | 1999 - 2001
+
+**Roanoke College** | Salem, VA
+
+B.S. in Sociology | 1995 - 1999
+
+## Experience
+
+**Splaine Consulting** | Director | March 2013 - Present
+
+**RTI International** | Health Policy Analyst | June 2010 - July 2024
+
+**Alzheimer's Disease International** | Policy Adviser | April 2013 - December 2018
+
+**Alzheimer's Association** | Senior Associate Director, Advocacy | June 2001 - May 2010
